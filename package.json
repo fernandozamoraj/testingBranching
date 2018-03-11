@@ -1,0 +1,30 @@
+{
+  "name": "testingb",
+  "version": "0.0.1",
+  "description": "Testing Branching Demo",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandozamoraj/testingBranching.git"
+  },
+  "keywords": [
+    "testing",
+    "branching"
+  ],
+  "author": "Fernando Zamora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandozamoraj/testingBranching/issues"
+  },
+  "homepage": "https://github.com/fernandozamoraj/testingBranching#readme"
+}
